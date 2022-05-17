@@ -1,2 +1,3 @@
-# TC1030-POO
-Acordate de agregar un README file
+# Nombre del Proyecto
+Fernando Josué Matute Soto - A00833375
+

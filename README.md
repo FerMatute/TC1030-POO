@@ -8,9 +8,9 @@ Maestro: Benjamín Valdés Aguirre
 Este programa, cumple...
 
 ## Funcionalidad
-Este proyecto tiene el propósito de hacer blah blah blah
+Este proyecto tiene el propósito de...
 
 ## Consideraciones (En caso de tenerlas)
-El programa esta escrito en C++, por lo tanto solo se ejecuta en compiladores.
+El programa esta escrito en C++...
 
-Otra consideración X
+Otra consideración 

@@ -11,7 +11,7 @@ Este programa cumple con el proposito de ser una plataforma donde un jugador es 
 ## Funcionalidad
 Este proyecto tiene el propósito de...
 
-## Consideraciones (En caso de tenerlas)
+## Consideraciones
 El programa solo corre en la consola y esta escrito en c++ por lo que corre en todos los sistemas operativos. 
 
 Muchos atributos y objetos ya estarán declarados por el código y no por el jugador o usuario.

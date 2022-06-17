@@ -15,3 +15,7 @@ Este proyecto tiene el propósito de aplicar los conocimientos vistos en clase c
 El programa solo corre en la consola y esta escrito en c++ por lo que corre en todos los sistemas operativos. 
 
 Muchos atributos y objetos ya estarán declarados por el código y no por el jugador o usuario, sin embargo el usuario puede crear algunos de ellos.
+
+Cuando se cree el ninja (usuario) solo se puede ingresar una palabra al momento de desplegarla solo se mostrará la primera palabra.
+
+Al momento de jugar Card-Jitsu cuando se le solicita que carta se quiere seleccionar si se ingresa una letra en lugar de un número el programa mostrará un error.
